@@ -1,10 +1,5 @@
 # FizzBuzz
 
-Solution for FizzBuzz programing quiz. Just to save someone time from asking if I can
-solve it.
-
----
-
 FizzBuzz is a game that has gained in popularity as a programming assignment to
 weed out non-programmers during job interviews. The object of the assignment is
 less about solving it correctly according to the below rules and more about
